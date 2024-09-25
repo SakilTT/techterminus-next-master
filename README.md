@@ -1,4 +1,4 @@
-# Camburg Website in ReactJs + NextJs + TailWind CSS
+# TechTerminus Website in ReactJs + NextJs + TailWind CSS
 
 You can run locally in development mode with live reload:
 
