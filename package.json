@@ -27,7 +27,7 @@
     "prepare": "husky install",
     "postbuild": "next-sitemap",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "npm run build && npm run export && gh-pages -d out"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
