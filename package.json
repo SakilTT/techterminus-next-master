@@ -1,6 +1,7 @@
 {
   "name": "next-js-boilerplate",
   "version": "3.11.0",
+  "homepage": "https://sakiltt.github.io/techterminus-next-master",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
