@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://camburg-engineering.com/
+
+# Sitemaps
+Sitemap: https://camburg-engineering.com/sitemap.xml
