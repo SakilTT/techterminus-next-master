@@ -38,8 +38,8 @@ const Header = () => {
           <Link href="/"> 
             <img
               className="h-[65px] max-lg:max-w-[150px] w-auto"
-              src={`${router.basePath}/images/camburg-logo.svg`}
-              alt="Camburg logo"
+              src={`${router.basePath}/images/tt-logo.png`}
+              alt="TechTerminus logo"
             />
           </Link>
         </div>
